@@ -1,0 +1,30 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.info {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: steelblue;
+}
+
+p.description {
+    padding-left: 20px;
+}
+
+.qualifications {
+    background-color: steelblue;
+    color: white;
+}
+
+.experience {
+    color: steelblue;   
+}
+
+.content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
