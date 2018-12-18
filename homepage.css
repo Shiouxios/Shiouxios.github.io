@@ -25,6 +25,14 @@ p.description {
 .content {
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+hr.light {
+    background-color: white;
+}
+
+hr.dark {
+    background-color: steelblue;
 }
