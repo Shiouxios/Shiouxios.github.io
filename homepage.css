@@ -36,3 +36,7 @@ hr.light {
 hr.dark {
     background-color: steelblue;
 }
+
+i {
+    font-size: 1.3rem;
+}
